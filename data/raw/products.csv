@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price_inr,unit_cost_inr,reorder_level_units
+MED001,CardioCare 10mg,Cardiovascular,120.0,35.0,500
+MED002,GlucoBalance 500mg,Diabetes Care,85.0,22.0,700
+MED003,AllerFree 10mg,Allergy,60.0,15.0,450
+MED004,PainRelief 500mg,Pain Management,45.0,10.0,600
+MED005,RespiraCare 200mcg,Respiratory,210.0,72.0,300
+MED006,GastroEase 20mg,Gastrointestinal,95.0,28.0,400
+MED007,NeuroWell 25mg,Neurology,160.0,48.0,250
+MED008,VitaPlus,Nutrition,75.0,20.0,550
+MED009,Dermacalm Cream,Dermatology,130.0,42.0,220
+MED010,InfectoGuard,Anti-infective,180.0,60.0,180
